@@ -1,0 +1,7 @@
+Project: AI Contract Analyzer
+
+Problem Statement:
+Reviewing contracts manually is slow.
+
+Solution Statement:
+Extract clauses, dates, obligations and potential risks.
